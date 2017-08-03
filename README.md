@@ -1,1 +1,1 @@
-# Hello-world
+# Hello-world I am introducing myself. I am a brand new data scientist, learning to get my head around everything. I believe the best thing in life is learning and improving. Not sure exactly which when I am heading with data science but hey! world is imprevisible. 
